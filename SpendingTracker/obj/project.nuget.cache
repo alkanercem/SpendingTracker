@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JuKOS03By1+uCljF3LZDkZERkBV2vRYiw5NsYpVhGi+sa0brlb0aHW4hZAKwJFhTAoyg2BZpRvB/WBSpGkzyQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ercem\\Desktop\\Yeni klasör (2)\\SpendingTracker\\SpendingTracker\\SpendingTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ercem\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\ercem\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}

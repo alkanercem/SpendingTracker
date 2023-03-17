@@ -1,0 +1,48 @@
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\SpendingTracker.exe
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\SpendingTracker.deps.json
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\SpendingTracker.runtimeconfig.json
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\SpendingTracker.dll
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\SpendingTracker.pdb
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.csproj.AssemblyReference.cache
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.Form1.resources
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.Form2.resources
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.csproj.GenerateResource.cache
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.AssemblyInfoInputs.cache
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.AssemblyInfo.cs
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.csproj.CoreCompileInputs.cache
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.csproj.CopyComplete
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.dll
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\refint\SpendingTracker.dll
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.pdb
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.genruntimeconfig.cache
+C:\Users\ercem\source\repos\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\ref\SpendingTracker.dll
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\SpendingTracker.exe
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\SpendingTracker.deps.json
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\SpendingTracker.runtimeconfig.json
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\SpendingTracker.dll
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\SpendingTracker.pdb
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.csproj.AssemblyReference.cache
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.Form1.resources
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.Form2.resources
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.csproj.GenerateResource.cache
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.AssemblyInfoInputs.cache
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.AssemblyInfo.cs
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.csproj.CoreCompileInputs.cache
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.csproj.CopyComplete
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.dll
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\refint\SpendingTracker.dll
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.pdb
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\SpendingTracker.genruntimeconfig.cache
+C:\Users\ercem\Desktop\Yeni klasör (2)\SpendingTracker\SpendingTracker\obj\Debug\net6.0-windows\ref\SpendingTracker.dll
